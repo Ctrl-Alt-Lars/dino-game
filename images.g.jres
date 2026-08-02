@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQYABgAAAAAAAAA8P//DwAAAAAAAAAAAPD//wAAAAAAAAAAAAD//w8AAAAAAAAAAADw//8AAAAAAAAAAADw//8PAAAAAAAAAAD/////AAAAAAAAAPD//////w8AAAAAAP//////Dw8AAAAA8P//////AAAA8P////////8PAAAA////////////AAAA//H//////////w8A//////////8AAA8A/////////w8AAAAA////////DwAAAAAA////D/AAAAAAAAAA////D/APAAAAAAAA//8PDwAAAAAAAAAA//8PDwAAAAAAAAAA//8PDwAAAAAAAAAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tRex"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAADw////DwAAAP//////AAAA//////8PAADw//////8AAAAAAP///wAA//////////D/////////8P////////8A/////////wAAAAAAAP8PAAAAAAAA/w8AAPD/////AAAA/////w8AAADw////AAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cactus"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
