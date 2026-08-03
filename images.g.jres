@@ -9,6 +9,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "cactus"
     },
+    "image3": {
+        "data": "hwQYABAAAAAAAA8AAAAAAADwDwAAAAAAAP8PAAAAAADw/w8AAAAAAP//DwAAAAAA//8PAAAAAAAA//8AAAAAAAAA/w8AAAAAAAD//////w8AAP//////AAAA/////wAAAAD///8PAAAAAP///wAAAAAA////AAAAAADw//8AAAAAAAD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD/DwAAAAAAAA8PAAAAAAAADw8AAAAAAAAPDwAAAAAAAA8PAAAAAAAADwAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fly"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
